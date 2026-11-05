@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-kio/a-kio/main/assets/header-dark.png?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a-kio/a-kio/main/assets/header-light.png?v=2">
-    <img src="https://raw.githubusercontent.com/a-kio/a-kio/main/assets/header-dark.png?v=2" width="100%" alt="A-kio Header Banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-kio/a-kio/main/assets/header-dark.png?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a-kio/a-kio/main/assets/header-light.png?v=3">
+    <img src="https://raw.githubusercontent.com/a-kio/a-kio/main/assets/header-dark.png?v=3" width="100%" alt="A-kio Header Banner" />
   </picture>
 
   <p>
