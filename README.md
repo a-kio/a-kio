@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=180&section=header&text=A-kio&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%26%20DevTools%20Engineer%20%7C%20AI%20Agent%20Verification&descAlignY=62&descSize=18" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-kio/a-kio/main/assets/header-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a-kio/a-kio/main/assets/header-light.png">
+    <img src="https://raw.githubusercontent.com/a-kio/a-kio/main/assets/header-dark.png" width="100%" alt="A-kio Header Banner" />
+  </picture>
 
   <p>
     <a href="https://github.com/a-kio?tab=followers"><img src="https://img.shields.io/github/followers/a-kio?label=Follow%20%40a-kio&style=social" alt="Follow @a-kio" /></a>
