@@ -61,6 +61,18 @@ I'm a systems engineer and developer tooling author passionate about **agentic A
 
 ---
 
+### 🏆 GitHub Achievements
+
+<p align="left">
+  <a href="https://github.com/a-kio?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60" height="60" alt="Galaxy Brain" title="Galaxy Brain - Answered discussion question with accepted answer" /></a>
+  <a href="https://github.com/a-kio?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" height="60" alt="YOLO" title="YOLO - Merged a pull request without code review" /></a>
+  <a href="https://github.com/a-kio?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" height="60" alt="Quickdraw" title="Quickdraw - Closed issue within 5 minutes" /></a>
+  <a href="https://github.com/a-kio?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" height="60" alt="Pull Shark" title="Pull Shark - Merged pull requests" /></a>
+  <a href="https://github.com/a-kio?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60" height="60" alt="Pair Extraordinaire" title="Pair Extraordinaire - Co-authored commits on merged PR" /></a>
+</p>
+
+---
+
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
