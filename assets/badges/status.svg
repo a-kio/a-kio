@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="112" height="24" viewBox="0 0 112 24" fill="none" role="img" aria-label="Status: Active">
-  <title>Status: Active</title>
-  <clipPath id="r"><rect width="112" height="24" rx="5"/></clipPath>
-  <g clip-path="url(#r)">
-    <rect width="48" height="24" fill="#161b22"/>
-    <text x="24" y="16" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="500" text-anchor="middle" letter-spacing="0.2px">status</text>
-    <rect x="48" width="64" height="24" fill="#0d1117"/>
-    <circle cx="59" cy="12" r="3" fill="#3fb950"/>
-    <text x="82" y="16" fill="#3fb950" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle" letter-spacing="0.3px">active</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="24" viewBox="0 0 86 24" fill="none" role="img" aria-label="Active">
+  <clipPath id="r_Active"><rect width="86" height="24" rx="5"/></clipPath>
+  <g clip-path="url(#r_Active)">
+    <rect width="32" height="24" fill="#000000"/>
+    <g transform="translate(9.0, 5.0)">
+      <svg width="14" height="14" viewBox="0 0 24 24"><circle cx="12" cy="12" r="5" fill="#22c55e"/></svg>
+    </g>
+    <rect x="32" width="54" height="24" fill="#ffffff"/>
+    <text x="59.0" y="16.0" fill="#000000" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="0.3px">Active</text>
   </g>
-  <rect width="112" height="24" rx="5" fill="none" stroke="#30363d" stroke-width="1"/>
+  <rect width="86" height="24" rx="5" fill="none" stroke="#30363d" stroke-width="1"/>
 </svg>
