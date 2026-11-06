@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="114" height="24" viewBox="0 0 114 24" fill="none" role="img" aria-label="ProofGate">
-  <clipPath id="r_ProofGate"><rect width="114" height="24" rx="5"/></clipPath>
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="24" viewBox="0 0 112 24" fill="none" role="img" aria-label="ProofGate">
+  <clipPath id="r_ProofGate"><rect width="112" height="24" rx="5"/></clipPath>
   <g clip-path="url(#r_ProofGate)">
     <rect width="36" height="24" fill="#000000"/>
     <g transform="translate(11.0, 5.0)">
       <svg width="14" height="14" viewBox="0 0 24 24" fill="#ffffff"><path d="M12 2L4 5v6.09c0 5.05 3.41 9.76 8 10.91 4.59-1.15 8-5.86 8-10.91V5l-8-3zm0 2.18l6 2.25v4.66c0 4.09-2.67 7.9-6 9-3.33-1.1-6-4.91-6-9V6.43l6-2.25z"/></svg>
     </g>
-    <rect x="36" width="78" height="24" fill="#ffffff"/>
-    <text x="75.0" y="16.0" fill="#000000" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="0.3px">ProofGate</text>
+    <rect x="36" width="76" height="24" fill="#0d1117"/>
+    <text x="74.0" y="16.0" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle" letter-spacing="0.3px">ProofGate</text>
   </g>
-  <rect width="114" height="24" rx="5" fill="none" stroke="#30363d" stroke-width="1"/>
+  <rect width="112" height="24" rx="5" fill="none" stroke="#30363d" stroke-width="1"/>
 </svg>
